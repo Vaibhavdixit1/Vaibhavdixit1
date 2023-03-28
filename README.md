@@ -2,7 +2,7 @@
 <img width="1000" align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
 <h1 align="center">Hi 👋, I'm Vaibhav dixit</h1>
 <h3 align="center">I want to become Full Stack Web Developer in future and I am passionate in it</h3>
-<img align="right" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img align="right" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdixit1&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdixit1" /> </p>
 
