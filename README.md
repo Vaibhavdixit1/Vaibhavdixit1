@@ -35,13 +35,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40" style="background-color:black; border-radius:5px; padding:5px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/strapiio/strapiio-icon.svg" alt="strapi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Strapi_Logo.png" alt="strapi" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -61,9 +61,3 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<!-- <p><a href="https://www.buymeacoffee.com/dixitvaibhav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dixitvaibhav" /></a></p><br><br> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdixit1&show_icons=true&locale=en&layout=compact" alt="vaibhavdixit1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavdixit1&show_icons=true&locale=en" alt="vaibhavdixit1" /></p>
