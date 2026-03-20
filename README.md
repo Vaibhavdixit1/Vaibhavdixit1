@@ -135,11 +135,3 @@ const vaibhav = {
 
 ---
 
-## 💬 **LET'S TALK** 💬
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+ALWAYS+EXCITED+TO+COLLABORATE+🚀;💻+LET'S+BUILD+SOMETHING+AMAZING+💻;🔥+OPEN+TO+NEW+OPPORTUNITIES+🔥;🎨+CREATING+DIGITAL+MAGIC+TOGETHER+🎨" alt="Let's Talk" />
-</div>
-
-
-
