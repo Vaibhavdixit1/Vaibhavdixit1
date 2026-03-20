@@ -108,15 +108,6 @@ const vaibhav = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavdixit1&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 **GITHUB TROPHIES** 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavdixit1&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🤝 **CONNECT WITH ME** 🤝
 
