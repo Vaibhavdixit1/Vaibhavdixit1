@@ -27,7 +27,7 @@
 ```javascript
 const vaibhav = {
   name: "Vaibhav Dixit",
-  role: "🎨 Frontend Developer",
+  role: "🎨 Senior Software Engineer",
   experience: "3+ years of frontend magic",
   location: "🇮🇳 India",
   passion: ["💻 Frontend Development", "🧩 Problem Solving", "📝 Poetry"],
