@@ -28,9 +28,9 @@
 const vaibhav = {
   name: "Vaibhav Dixit",
   role: "🎨 Senior Software Engineer",
-  experience: "3+ years of frontend magic",
+  experience: "3+ years",
   location: "🇮🇳 India",
-  passion: ["💻 Frontend Development", "🧩 Problem Solving", "📝 Poetry"],
+  passion: ["💻 Software Development", "🧩 Problem Solving", "📝 Poetry"],
   currentFocus: "⚡ React, Next.js, TypeScript + Learning Backend",
   learning: "🔥 Currently learning Backend Development",
   funFact: "🎨 Apart from coding, I also write poetry!",
