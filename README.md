@@ -43,7 +43,7 @@ const vaibhav = {
 
 ### 🎯 **WHAT I DO** 🎯
 - **🎨 Frontend Development**: React, Next.js, TypeScript, Tailwind CSS (3+ years experience)
-- **🔥 Learning Backend**: Node.js, Strapi, Express.js (Currently learning)
+- **🔥 Learning Backend**: Node.js, Strapi, Express.js 
 - **🌐 WordPress Development**: Custom themes, plugins, and solutions
 - **🚀 SEO & Optimization**: Performance tuning, Search Engine Optimization
 
