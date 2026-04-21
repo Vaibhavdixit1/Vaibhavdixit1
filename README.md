@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 **ABOUT ME** 🎯
+## **ABOUT ME**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=I+am+a+passionate+Frontend+Developer;Building+amazing+web+applications+with+modern+tech;Currently+learning+Backend+Development;Let's+create+something+incredible+together!" alt="About Me" />
@@ -41,7 +41,7 @@ const vaibhav = {
 };
 ```
 
-### 🎯 **WHAT I DO** 🎯
+### **WHAT I DO**
 - **🎨 Frontend Development**: React, Next.js, TypeScript, Tailwind CSS (3+ years experience)
 - **🔥 Learning Backend**: Node.js, Strapi, Express.js 
 - **🌐 WordPress Development**: Custom themes, plugins, and solutions
@@ -55,13 +55,13 @@ const vaibhav = {
 
 ---
 
-## 🛠️ **TECH STACK** 🛠️
+## **TECH STACK**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=⚡+FRONTEND+TECHNOLOGIES+⚡;🔥+BACKEND+%26+TOOLS+🔥;☁️+CLOUD+%26+DEPLOYMENT+☁️" alt="Tech Stack" />
 </div>
 
-### 🎨 **FRONTEND** 🎨
+###  **FRONTEND** 
 <div align="center">
   <img src="https://img.shields.io/badge/⚡-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/🚀-NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -72,7 +72,7 @@ const vaibhav = {
   <img src="https://img.shields.io/badge/💅-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### ⚙️ **BACKEND & TOOLS** ⚙️
+### **BACKEND & TOOLS** 
 <div align="center">
   <img src="https://img.shields.io/badge/🟢-NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/🔧-STRAPI-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
@@ -84,7 +84,7 @@ const vaibhav = {
   <img src="https://img.shields.io/badge/🎨-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### ☁️ **CLOUD & DEPLOYMENT** ☁️
+### **CLOUD & DEPLOYMENT**
 <div align="center">
   <img src="https://img.shields.io/badge/☁️-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/🚀-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -93,7 +93,7 @@ const vaibhav = {
 
 ---
 
-## 📊 **GITHUB STATS** 📊
+## **GITHUB STATS**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=📈+MY+CODING+JOURNEY+📈;🔥+CONTRIBUTIONS+%26+ACTIVITY+🔥;💻+LANGUAGES+%26+SKILLS+💻" alt="Stats" />
@@ -109,7 +109,7 @@ const vaibhav = {
 </div>
 
 
-## 🤝 **CONNECT WITH ME** 🤝
+## **CONNECT WITH ME**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🚀+LET'S+CONNECT+🚀;💬+ALWAYS+EXCITED+TO+COLLABORATE+💬;🔥+BUILDING+AMAZING+THINGS+TOGETHER+🔥" alt="Connect" />
